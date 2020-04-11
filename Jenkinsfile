@@ -3,7 +3,7 @@ pipeline {
     stages{
           stage('Checkout'){
             steps{
-             echo 'Checking Out'
+             echo 'Checking Out 2'
          }
      }
     }
