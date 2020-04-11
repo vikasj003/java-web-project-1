@@ -17,7 +17,6 @@ pipeline {
                                           url: 'http://ec2-3-133-137-143.us-east-2.compute.amazonaws.com:8080/')], 
                     contextPath: 'javawebapp', war: '**/java-web-project.war'
             }
-       }
-
+       } 
     }
 } 
